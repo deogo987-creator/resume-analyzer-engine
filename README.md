@@ -1,1 +1,1 @@
-# resume-analyzer-engine
+# recruiter mind ai
